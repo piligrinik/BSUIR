@@ -97,8 +97,7 @@ int main()
 		cout << i << " ";
 	}
 	cout << endl;
-	/////////////////////////////////////////////////////////////////////////
-
+	
 	double realN = 0;
 	cout << "Enter real number: " << endl;
 	cin >> realN;
