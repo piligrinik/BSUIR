@@ -113,36 +113,6 @@ binaryCodeInt binaryCodeInt::operator-(binaryCodeInt b)
 	vector <int> add2 = b1.additional_code;
 	binaryCodeInt substraction;
 	substraction=this->operator+(b1);
-	//vector <int> straight = substraction.straight_code;
-	//int actS = 0, buffer = 0;
-	//for (int i = add1.size() - 1; i >= 0; i--)
-	//{
-	//	actS = add1[i] + add2[i];
-	//	switch (actS + buffer)
-	//	{
-	//	case 0:
-	//		straight[i] = 0;
-	//		buffer = 0;
-	//		break;
-	//	case 1:
-	//		straight[i] = 1;
-	//		buffer = 0;
-	//		break;
-	//	case 2:
-	//		straight[i] = 0;
-	//		buffer = 1;
-	//		break;
-	//	case 3:
-	//		straight[i] = 1;
-	//		buffer = 1;
-	//		break;
-	//	}
-	//}
-	//substraction.straight_code = straight;
-	////if(summary.straight_code[0]==0)
-	//substraction.make_reverse_code();
-	//substraction.make_additional_code();
-	//substraction.straight_code = substraction.get_additional_code();
 	return substraction;
 }
 
@@ -167,7 +137,6 @@ binaryCodeInt binaryCodeInt::operator*(binaryCodeInt b)
 	binaryCodeInt product;
 	vector <int> buffer(8);
 	vector <int> summary(8);
-	//binaryCode buffer;
 	vector <int> str1 = this->straight_code;
 	vector <int> str2 = b.straight_code;
 	int actS = 0, buff = 0, sdvig=0;
@@ -252,7 +221,7 @@ binaryCodeReal binaryCodeInt::operator/(binaryCodeInt b)
 	binaryCodeReal quotient(absQ);
 	make_quotient_code(quotient);
 	if (q < 0) quotient.code.insert(quotient.code.begin(), 1);
-	else quotient.code.insert(quotient.code.begin(), 0);                 //çíàêîâàÿ ÷àñòü 
+	else quotient.code.insert(quotient.code.begin(), 0);                 //Ã§Ã­Ã ÃªÃ®Ã¢Ã Ã¿ Ã·Ã Ã±Ã²Ã¼ 
 	return quotient;
 }
 
@@ -288,7 +257,6 @@ binaryCodeInt binaryCodeInt::operator+(binaryCodeInt b)
 		}
 	}
 	summary.straight_code = straight;
-	//if(summary.straight_code[0]==0)
 	summary.make_reverse_code();
 	summary.make_additional_code();
 	summary.straight_code = summary.get_additional_code();
