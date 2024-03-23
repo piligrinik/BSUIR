@@ -32,8 +32,7 @@ void binaryCodeReal::make_code()
 {
 	vector <int> final(32, 0);
 	int int_part = static_cast<int>(a);
-	point = make_int_code(int_part);            //сделать полем????????????????????
-
+	point = make_int_code(int_part);            
 	double diff = a - int_part;
 	while (diff != 1)
 	{
