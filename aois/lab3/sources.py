@@ -108,13 +108,12 @@ def evaluate_rpn(rpn_list):
     return stack[0]
 
 
-def execute(formula, values) -> bool: #выполнение
+def execute(formula, values) -> bool: 
     rpn_formula = infix_to_rpn(formula)
-    # Значения аргументов для подстановки
-    # Преобразование переменных в значения
+    
     for i in range(len(rpn_formula)):
         if rpn_formula[i] in values:
             rpn_formula[i] = values[rpn_formula[i]]
-    # Вычисление результата с подстановкой значений
+   
     result = evaluate_rpn(rpn_formula)
     return result
