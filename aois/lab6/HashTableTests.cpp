@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+#include "pch.h"
 #include "CppUnitTest.h"
 #include "..//aois6/HashTable.cpp"
 
@@ -13,57 +13,48 @@ namespace HashTableTests
 		TEST_METHOD(TestMethod1)
 		{
 			HashTable ht(20, 0);
-			ht.insert_cell("Абаев", "Тимур");
-			ht.insert_cell("Бобков", "Андрей");
-			ht.insert_cell("Видерт", "Руслан");
-			ht.insert_cell("Гракова", "Наталья");
+			ht.insert_cell("Поттер", "Гарри");
+			ht.insert_cell("Грейнджер", "Гермиона");
+			ht.insert_cell("Уизли", "Рональд");
+			ht.insert_cell("Малфой", "Драко");
 
-			ht.print_table();
-			ht.delete_cell("Абаев");
-			ht.insert_cell("Бобков", "Ибрагим");
-			ht.print_table();
-			Assert::AreEqual(string("Ибрагим"), ht.get_cell_data("Бобков"));
+			ht.delete_cell("Поттер");
+			ht.insert_cell("Поттер", "Джеймс");
+\
+			Assert::AreEqual(string("Джеймс"), ht.get_cell_data("Поттер"));
 		}
 
 		TEST_METHOD(TestMethod2)
 		{
 			HashTable ht(20, 0);
-
-			ht.insert_cell("Ковалев", "Сергей");
-			ht.insert_cell("Крикунов", "Евгений");
-			ht.insert_cell("Кот", "Иван");
-			ht.insert_cell("Давыденко", "Ирина");
-			ht.insert_cell("Горбань", "Петр");
-			ht.insert_cell("Данилов", "Павел");
-			ht.insert_cell("Козлов", "Максим");
-			ht.insert_cell("Азимов", "Александр");
+			ht.insert_cell("Поттер", "Гарри");
+			ht.insert_cell("Грейнджер", "Гермиона");
+			ht.insert_cell("Уизли", "Рональд");
+			ht.insert_cell("Малфой", "Драко");
 
 			ht.print_table();
 
-			ht.delete_cell("Ковалев");
-			ht.insert_cell("Бобков", "Ибрагим");
+			ht.delete_cell("Поттер");
 			ht.print_table();
-			Assert::AreEqual(string(""), ht.get_cell_data("Ковалев"));
+			Assert::AreEqual(string(""), ht.get_cell_data("Поттер"));
 		}
 
 		TEST_METHOD(TestMethod3)
 		{
 			HashTable ht(20, 0);
 
-			ht.insert_cell("Бобков", "Андрей");
-			ht.insert_cell("Видерт", "Руслан");
-			ht.insert_cell("Кожевников", "Константин");
-			ht.insert_cell("Ковалев", "Сергей");
-			ht.insert_cell("Кот", "Иван");
-			ht.insert_cell("Давыденко", "Ирина");
-			ht.insert_cell("Горбань", "Петр");
-			ht.insert_cell("Азимов", "Александр");
+			ht.insert_cell("Лестрейндж", "Беллатриса");
+			ht.insert_cell("Дамблдор", "Альбус");
+			ht.insert_cell("Снейп", "Северус");
+			ht.insert_cell("Дигарри", "Седрик");
+			ht.insert_cell("Лавгуд", "Полумна");
+			ht.insert_cell("Долгопупс", "Невилл");
 
 			ht.print_table();
 
-			ht.delete_cell("Абаев");
-			ht.insert_cell("Бобков", "Ибрагим");
-			Assert::AreEqual(string("Руслан"), ht.get_cell_data("Видерт"));
+			ht.delete_cell("Дамблдор");
+			ht.insert_cell("Поттер", "Джеймс");
+			Assert::AreEqual(string("Северус"), ht.get_cell_data("Снейп"));
 
 		}
 	};
