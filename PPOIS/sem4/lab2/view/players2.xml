@@ -1,0 +1,410 @@
+<soccer_players>
+    <soccer_player>
+        <full_name>Lionel Messi</full_name>
+        <birth_date>1987-06-24</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Rosario</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Cristiano Ronaldo</full_name>
+        <birth_date>1985-02-05</birth_date>
+        <soccer_team>Manchester United</soccer_team>
+        <home_town>Funchal</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Neymar Jr</full_name>
+        <birth_date>1992-02-05</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Mogi das Cruzes</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Kylian Mbappe</full_name>
+        <birth_date>1998-12-20</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Bondy</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Sergio Ramos</full_name>
+        <birth_date>1986-03-30</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Camas</home_town>
+        <squad>A</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Kevin De Bruyne</full_name>
+        <birth_date>1991-06-28</birth_date>
+        <soccer_team>Manchester City</soccer_team>
+        <home_town>Drongen</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Virgil van Dijk</full_name>
+        <birth_date>1991-07-08</birth_date>
+        <soccer_team>Liverpool</soccer_team>
+        <home_town>Breda</home_town>
+        <squad>A</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Marc-Andre ter Stegen</full_name>
+        <birth_date>1992-04-30</birth_date>
+        <soccer_team>Barcelona</soccer_team>
+        <home_town>Monchengladbach</home_town>
+        <squad>A</squad>
+        <position>Goalkeeper</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Mohamed Salah</full_name>
+        <birth_date>1992-06-15</birth_date>
+        <soccer_team>Liverpool</soccer_team>
+        <home_town>Nagrig</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Luis Suarez</full_name>
+        <birth_date>1987-01-24</birth_date>
+        <soccer_team>Atletico Madrid</soccer_team>
+        <home_town>Salto</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Karim Benzema</full_name>
+        <birth_date>1987-12-19</birth_date>
+        <soccer_team>Real Madrid</soccer_team>
+        <home_town>Lyon</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Marcos Llorente</full_name>
+        <birth_date>1995-01-30</birth_date>
+        <soccer_team>Atletico Madrid</soccer_team>
+        <home_town>Madrid</home_town>
+        <squad>C</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Eduardo Camavinga</full_name>
+        <birth_date>2003-11-10</birth_date>
+        <soccer_team>Real Madrid</soccer_team>
+        <home_town>Miconje</home_town>
+        <squad>D</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Alexander Isak</full_name>
+        <birth_date>1999-09-21</birth_date>
+        <soccer_team>Real Sociedad</soccer_team>
+        <home_town>Solna</home_town>
+        <squad>C</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Yusuf Yazici</full_name>
+        <birth_date>1997-01-29</birth_date>
+        <soccer_team>Lille</soccer_team>
+        <home_town>Trabzon</home_town>
+        <squad>E</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Renato Sanches</full_name>
+        <birth_date>1997-08-18</birth_date>
+        <soccer_team>Lille</soccer_team>
+        <home_town>Lisbon</home_town>
+        <squad>E</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Joao Cancelo</full_name>
+        <birth_date>1994-05-27</birth_date>
+        <soccer_team>Manchester City</soccer_team>
+        <home_town>Barreiro</home_town>
+        <squad>C</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Nicolo Barella</full_name>
+        <birth_date>1997-02-07</birth_date>
+        <soccer_team>Inter Milan</soccer_team>
+        <home_town>Cagliari</home_town>
+        <squad>D</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Matteo Kovacic</full_name>
+        <birth_date>1994-05-06</birth_date>
+        <soccer_team>Chelsea</soccer_team>
+        <home_town>Linz</home_town>
+        <squad>C</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Ismaila Sarr</full_name>
+        <birth_date>1998-02-25</birth_date>
+        <soccer_team>Watford</soccer_team>
+        <home_town>Pessac</home_town>
+        <squad>F</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Maxence Lacroix</full_name>
+        <birth_date>2000-04-06</birth_date>
+        <soccer_team>VfL Wolfsburg</soccer_team>
+        <home_town>Sarcelles</home_town>
+        <squad>E</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Paul Pogba</full_name>
+        <birth_date>1993-03-15</birth_date>
+        <soccer_team>Manchester United</soccer_team>
+        <home_town>Lagny-sur-Marne</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Marco Reus</full_name>
+        <birth_date>1989-05-31</birth_date>
+        <soccer_team>Borussia Dortmund</soccer_team>
+        <home_town>Essen</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Alisson Becker</full_name>
+        <birth_date>1992-10-02</birth_date>
+        <soccer_team>Liverpool</soccer_team>
+        <home_town>Novo Hamburgo</home_town>
+        <squad>A</squad>
+        <position>Goalkeeper</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Kalidou Koulibaly</full_name>
+        <birth_date>1991-06-20</birth_date>
+        <soccer_team>Napoli</soccer_team>
+        <home_town>Saint-Die-des-Vosges</home_town>
+        <squad>A</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Thomas Muller</full_name>
+        <birth_date>1989-09-13</birth_date>
+        <soccer_team>Bayern Munich</soccer_team>
+        <home_town>Weilheim in Oberbayern</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Marquinhos</full_name>
+        <birth_date>1994-05-14</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Sao Paulo</home_town>
+        <squad>A</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Riyad Mahrez</full_name>
+        <birth_date>1991-02-21</birth_date>
+        <soccer_team>Manchester City</soccer_team>
+        <home_town>Sarcelles</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Frenkie de Jong</full_name>
+        <birth_date>1997-05-12</birth_date>
+        <soccer_team>Barcelona</soccer_team>
+        <home_town>Arkel</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Lautaro Martinez</full_name>
+        <birth_date>1997-08-22</birth_date>
+        <soccer_team>Inter Milan</soccer_team>
+        <home_town>Bahia Blanca</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Sadio Mane</full_name>
+        <birth_date>1992-04-10</birth_date>
+        <soccer_team>Liverpool</soccer_team>
+        <home_town>Bambali</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Raphael Varane</full_name>
+        <birth_date>1993-04-25</birth_date>
+        <soccer_team>Real Madrid</soccer_team>
+        <home_town>Lille</home_town>
+        <squad>A</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Joshua Kimmich</full_name>
+        <birth_date>1995-02-08</birth_date>
+        <soccer_team>Bayern Munich</soccer_team>
+        <home_town>Rottweil</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Timo Werner</full_name>
+        <birth_date>1996-03-06</birth_date>
+        <soccer_team>Chelsea</soccer_team>
+        <home_town>Stuttgart</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Romelu Lukaku</full_name>
+        <birth_date>1993-05-13</birth_date>
+        <soccer_team>Chelsea</soccer_team>
+        <home_town>Antwerp</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Karim Adeyemi</full_name>
+        <birth_date>2002-01-18</birth_date>
+        <soccer_team>RB Salzburg</soccer_team>
+        <home_town>Munich</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Mason Mount</full_name>
+        <birth_date>1999-01-10</birth_date>
+        <soccer_team>Chelsea</soccer_team>
+        <home_town>Portsmouth</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Erling Haaland</full_name>
+        <birth_date>2000-07-21</birth_date>
+        <soccer_team>Borussia Dortmund</soccer_team>
+        <home_town>Leeds</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Gianluigi Donnarumma</full_name>
+        <birth_date>1999-02-25</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Castellammare di Stabia</home_town>
+        <squad>A</squad>
+        <position>Goalkeeper</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Jude Bellingham</full_name>
+        <birth_date>2003-06-29</birth_date>
+        <soccer_team>Borussia Dortmund</soccer_team>
+        <home_town>Stourbridge</home_town>
+        <squad>A</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Harry Kane</full_name>
+        <birth_date>1993-07-28</birth_date>
+        <soccer_team>Tottenham Hotspur</soccer_team>
+        <home_town>London</home_town>
+        <squad>B</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Ruben Dias</full_name>
+        <birth_date>1997-05-14</birth_date>
+        <soccer_team>Manchester City</soccer_team>
+        <home_town>Amadora</home_town>
+        <squad>B</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Federico Chiesa</full_name>
+        <birth_date>1997-10-25</birth_date>
+        <soccer_team>Juventus</soccer_team>
+        <home_town>Genoa</home_town>
+        <squad>B</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Kasper Schmeichel</full_name>
+        <birth_date>1986-11-05</birth_date>
+        <soccer_team>Leicester City</soccer_team>
+        <home_town>Copenhagen</home_town>
+        <squad>B</squad>
+        <position>Goalkeeper</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Jack Grealish</full_name>
+        <birth_date>1995-09-10</birth_date>
+        <soccer_team>Manchester City</soccer_team>
+        <home_town>Birmingham</home_town>
+        <squad>B</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Memphis Depay</full_name>
+        <birth_date>1994-02-13</birth_date>
+        <soccer_team>Barcelona</soccer_team>
+        <home_town>Moordrecht</home_town>
+        <squad>C</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Martin Odegaard</full_name>
+        <birth_date>1998-12-17</birth_date>
+        <soccer_team>Arsenal</soccer_team>
+        <home_town>Drammen</home_town>
+        <squad>C</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Declan Rice</full_name>
+        <birth_date>1999-01-14</birth_date>
+        <soccer_team>West Ham United</soccer_team>
+        <home_town>London</home_town>
+        <squad>B</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Matteo Pessina</full_name>
+        <birth_date>1997-04-21</birth_date>
+        <soccer_team>Atalanta</soccer_team>
+        <home_town>Milan</home_town>
+        <squad>C</squad>
+        <position>Midfielder</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Josko Gvardiol</full_name>
+        <birth_date>2002-01-23</birth_date>
+        <soccer_team>RB Leipzig</soccer_team>
+        <home_town>Split</home_town>
+        <squad>D</squad>
+        <position>Defender</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Lolik Privet</full_name>
+        <birth_date>2001-01-22</birth_date>
+        <soccer_team>Milanidze</soccer_team>
+        <home_town>Senno</home_town>
+        <squad>B</squad>
+        <position>Defender</position>
+    </soccer_player>
+</soccer_players>

@@ -1,0 +1,183 @@
+
+<soccer_players>
+  <soccer_player>
+    <full_name>Lionel Messi</full_name>
+    <birth_date>1987-06-24</birth_date>
+    <soccer_team>Paris Saint-Germain</soccer_team>
+    <home_town>Rosario</home_town>
+    <squad>A</squad>
+    <position>Forward</position>
+  </soccer_player>
+  
+  <soccer_player>
+    <full_name>Cristiano Ronaldo</full_name>
+    <birth_date>1985-02-05</birth_date>
+    <soccer_team>Al-Nassr</soccer_team>
+    <home_town>Funchal</home_town>
+    <squad>B</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Neymar Jr.</full_name>
+    <birth_date>1992-02-05</birth_date>
+    <soccer_team>Paris Saint-Germain</soccer_team>
+    <home_town>Mogi das Cruzes</home_town>
+    <squad>A</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Kylian Mbappé</full_name>
+    <birth_date>1998-12-20</birth_date>
+    <soccer_team>Paris Saint-Germain</soccer_team>
+    <home_town>Bondy</home_town>
+    <squad>D</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Robert Lewandowski</full_name>
+    <birth_date>1988-08-21</birth_date>
+    <soccer_team>Barcelona</soccer_team>
+    <home_town>Warsaw</home_town>
+    <squad>B</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Virgil van Dijk</full_name>
+    <birth_date>1991-07-08</birth_date>
+    <soccer_team>Liverpool</soccer_team>
+    <home_town>Breda</home_town>
+    <squad>E</squad>
+    <position>Defender</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Kevin De Bruyne</full_name>
+    <birth_date>1991-06-28</birth_date>
+    <soccer_team>Manchester City</soccer_team>
+    <home_town>Drongen</home_town>
+    <squad>E</squad>
+    <position>Midfielder</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Luka Modrić</full_name>
+    <birth_date>1985-09-09</birth_date>
+    <soccer_team>Real Madrid</soccer_team>
+    <home_town>Zadar</home_town>
+    <squad>C</squad>
+    <position>Midfielder</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Manuel Neuer</full_name>
+    <birth_date>1986-03-27</birth_date>
+    <soccer_team>Bayern Munich</soccer_team>
+    <home_town>Gelsenkirchen</home_town>
+    <squad>C</squad>
+    <position>Goalkeeper</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Karim Benzema</full_name>
+    <birth_date>1987-12-19</birth_date>
+    <soccer_team>Real Madrid</soccer_team>
+    <home_town>Lyon</home_town>
+    <squad>D</squad>
+    <position>Forward</position>
+  </soccer_player>
+  
+  <soccer_player>
+    <full_name>Sergio Ramos</full_name>
+    <birth_date>1986-03-30</birth_date>
+    <soccer_team>Paris Saint-Germain</soccer_team>
+    <home_town>Camas</home_town>
+    <squad>D</squad>
+    <position>Defender</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Mohamed Salah</full_name>
+    <birth_date>1992-06-15</birth_date>
+    <soccer_team>Liverpool</soccer_team>
+    <home_town>Nagrig</home_town>
+    <squad>A</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+ <soccer_player>
+    <full_name>Toni Kroos</full_name>
+    <birth_date>1990-01-04</birth_date>
+    <soccer_team>Real Madrid</soccer_team>
+    <home_town>Greifswald</home_town>
+    <squad>B</squad>
+    <position>Midfielder</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Eden Hazard</full_name>
+    <birth_date>1991-01-07</birth_date>
+    <soccer_team>Real Madrid</soccer_team>
+    <home_town>La Louvière</home_town>
+    <squad>E</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Harry Kane</full_name>
+    <birth_date>1993-07-28</birth_date>
+    <soccer_team>Tottenham Hotspur</soccer_team>
+    <home_town>Walthamstow</home_town>
+    <squad>C</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Kevin De Bruyne</full_name>
+    <birth_date>1991-06-28</birth_date>
+    <soccer_team>Manchester City</soccer_team>
+    <home_town>Drongen</home_town>
+    <squad>D</squad>
+    <position>Midfielder</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Alisson Becker</full_name>
+    <birth_date>1992-10-02</birth_date>
+    <soccer_team>Liverpool</soccer_team>
+    <home_town>Novo Hamburgo</home_town>
+    <squad>E</squad>
+    <position>Goalkeeper</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Paul Pogba</full_name>
+    <birth_date>1993-03-15</birth_date>
+    <soccer_team>Manchester United</soccer_team>
+    <home_town>Lagny-sur-Marne</home_town>
+    <squad>D</squad>
+    <position>Midfielder</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Son Heung-min</full_name>
+    <birth_date>1992-07-08</birth_date>
+    <soccer_team>Tottenham Hotspur</soccer_team>
+    <home_town>Chuncheon</home_town>
+    <squad>C</squad>
+    <position>Forward</position>
+  </soccer_player>
+
+  <soccer_player>
+    <full_name>Thibaut Courtois</full_name>
+    <birth_date>1992-05-11</birth_date>
+    <soccer_team>Real Madrid</soccer_team>
+    <home_town>Bree</home_town>
+    <squad>B</squad>
+    <position>Goalkeeper</position>
+  </soccer_player>
+
+</soccer_players>

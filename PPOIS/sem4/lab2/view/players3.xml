@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><soccer_players>
+    <soccer_player>
+        <full_name>Lionel Messi</full_name>
+        <birth_date>1987-06-24</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Rosario</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Cristiano Ronaldo</full_name>
+        <birth_date>1985-02-05</birth_date>
+        <soccer_team>Manchester United</soccer_team>
+        <home_town>Funchal</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+    <soccer_player>
+        <full_name>Neymar Jr</full_name>
+        <birth_date>1992-02-05</birth_date>
+        <soccer_team>Paris Saint-Germain</soccer_team>
+        <home_town>Mogi das Cruzes</home_town>
+        <squad>A</squad>
+        <position>Forward</position>
+    </soccer_player>
+	<soccer_player>
+        <full_name>Lolik Privet</full_name>
+        <birth_date>2001-01-22</birth_date>
+        <soccer_team>Milanidze</soccer_team>
+        <home_town>Senno</home_town>
+        <squad>B</squad>
+        <position>Defender</position>
+    </soccer_player>
+</soccer_players>
